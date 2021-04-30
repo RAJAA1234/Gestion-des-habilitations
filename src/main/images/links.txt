@@ -1,0 +1,2 @@
+https://sqliteonline.com/ : online stimulator bd
+http://www.timebie.com/tz/timediff.php?q1=Greenwich%20Mean%20Time&q2=GMT%20+8%20Time : time convertor
